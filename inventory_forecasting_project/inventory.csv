@@ -1,0 +1,4 @@
+product_id,product_name,current_stock,lead_time_days,unit_cost,supplier
+P001,Wireless Mouse,25,5,450,ABC Supplies
+P002,USB Cable,8,4,120,XYZ Traders
+P003,Laptop Stand,40,7,650,Modern Wholesale

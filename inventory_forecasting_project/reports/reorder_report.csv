@@ -1,0 +1,4 @@
+product_id,product_name,supplier,current_stock,lead_time_days,forecast_daily_demand,demand_std_dev,lead_time_demand,safety_stock,reorder_point,reorder_quantity,days_until_stockout,stockout_prone,status,unit_cost,estimated_order_cost,mae,mape_percent
+P001,Wireless Mouse,ABC Supplies,25.0,5.0,10.429,1.718,52.14,7,59,295,2.4,True,REORDER NOW,450.0,132750.0,1.542,13.24
+P002,USB Cable,XYZ Traders,8.0,4.0,1.571,0.976,6.29,4,10,43,5.1,False,REORDER NOW,120.0,5160.0,1.017,55.333
+P003,Laptop Stand,Modern Wholesale,40.0,7.0,0.0,0.0,0.0,0,0,0,,False,SLOW-MOVING / NO RECENT SALES,650.0,0.0,0.0,

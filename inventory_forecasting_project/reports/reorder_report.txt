@@ -1,0 +1,44 @@
+INVENTORY FORECASTING & REORDER ASSISTANT
+==============================================
+Forecast method: moving_average
+Products analyzed: 3
+Reorder now: 2
+Stockout-prone: 1
+
+PRIORITIZED INVENTORY
+----------------------------------------------
+1. Wireless Mouse (ID: P001)
+   Status: REORDER NOW
+   Current stock: 25.0
+   Forecast demand/day: 10.429
+   Lead time: 5.0 days
+   Safety stock: 7
+   Reorder point: 59
+   Suggested order quantity: 295
+   Days until stockout: 2.4
+   Stockout prone: True
+   MAE: 1.542; MAPE (%): 13.24
+
+2. USB Cable (ID: P002)
+   Status: REORDER NOW
+   Current stock: 8.0
+   Forecast demand/day: 1.571
+   Lead time: 4.0 days
+   Safety stock: 4
+   Reorder point: 10
+   Suggested order quantity: 43
+   Days until stockout: 5.1
+   Stockout prone: False
+   MAE: 1.017; MAPE (%): 55.333
+
+3. Laptop Stand (ID: P003)
+   Status: SLOW-MOVING / NO RECENT SALES
+   Current stock: 40.0
+   Forecast demand/day: 0.0
+   Lead time: 7.0 days
+   Safety stock: 0
+   Reorder point: 0
+   Suggested order quantity: 0
+   Days until stockout: None
+   Stockout prone: False
+   MAE: 0.0; MAPE (%): None
